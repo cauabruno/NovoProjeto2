@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: Passion One;
-    src: url(../pacote-d012/Passion_One/PassionOne-Bold.ttf) format("truetype");
+    src: url(pacote-d012/Passion_One/PassionOne-Bold.ttf) format("truetype");
 }
 
 *{
@@ -57,11 +57,11 @@ div{
 }
 
 div#par2{
-    background: url(../pacote-d012/imagens/background001.jpg) center right /cover no-repeat fixed;
+    background: url(pacote-d012/imagens/background001.jpg) center right /cover no-repeat fixed;
 }
 
 div#par4{
-    background: url(../pacote-d012/imagens/background002.jpg) center right /cover no-repeat fixed;
+    background: url(pacote-d012/imagens/background002.jpg) center right /cover no-repeat fixed;
 }
 
 .img{
